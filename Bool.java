@@ -31,4 +31,11 @@ public class Bool {
         
     }
     
-
+/*
+ * Type 1: boolean
+Boolean data type represents only one bit of 
+information either true or false which is 
+intended to represent the two truth values of 
+logic and Boolean algebra, but the size of the boolean data type is virtual machine-dependent. Values of type boolean are not converted implicitly or explicitly (with casts) to any other type. But the programmer can easily write conversion code.
+ * 
+ */
