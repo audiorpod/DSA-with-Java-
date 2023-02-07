@@ -9,7 +9,7 @@ public class Data {
         float f =5.8f;
         double d = 5.8;
         
-        char c ='k';
+        char c ='k';     //literals 
 
         boolean b = true;
 
@@ -23,6 +23,8 @@ public class Data {
         System.out.println(d);
         System.out.println(c);
         System.out.println(b);
+
+
     }
     
 }
